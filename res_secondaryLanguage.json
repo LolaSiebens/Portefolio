@@ -1,0 +1,120 @@
+{
+  "basic_info": {
+    "description_header": "Hello",
+    "description": "👋 I am Lola, a passionate junior Front-end web developer, proficient in JavaScript, React, HTML, CSS, and SEO principles. ⭐ Familiar with API integration, I am committed to creating dynamic and high-performance user experiences, applying green code practices to contribute to sustainable development! 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Argent Bank",
+      "startDate": "November 2023",
+      "description": "As a front-end developer at Argent Bank, I built the React application for the new authentication system, utilizing technologies like MongoDB for data management and Redux for state management. I also provided input on modeling back-end API routes for transactions, with a code review scheduled.",
+      "images": [
+        "images/portfolio/ArgentBank/p1.jpg",
+        "images/portfolio/ArgentBank/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-redux-original",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-sass-original",
+          "name": "Sass"
+        }
+      ]
+    },
+    {
+      "title": "724 Events",
+      "startDate": "October 2023",
+      "description": "As a freelance front-end developer, I was enlisted by the agency 724events to address bugs on their showcase website. My role was to finalize the project by following the indications left by the previous developer and completing the recipe book to ensure the proper functioning of the site.",
+      "images": [
+        "images/portfolio/724Events/p1.jpg",
+        "images/portfolio/724Events/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-sass-original",
+          "name": "Sass"
+        }
+      ]
+    },
+    {
+      "title": "Nina Carducci - SEO",
+      "startDate": "September 2023",
+      "description": "In-depth analysis of photographer Nina Carducci's website, identifying SEO optimization opportunities. Comprehensive optimizations implemented, encompassing performance adjustments, local SEO, metadata for social networks, and accessibility enhancements.",
+      "images": [
+        "images/portfolio/NinaCarducci/p1.jpg",
+        "images/portfolio/NinaCarducci/p2.jpg"
+      ],
+      "url": "https://lolasiebens.github.io/Projet_9_NinaCarducci/",
+      "technologies": [
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Argent Bank",
+      "title": "Front-End Developer",
+      "years": "Nov. 2023 - present",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        "React",
+        "JavaScript",
+        "Redux",
+        "Sass",
+        "Node.js",
+        "MongoDb",
+        "Gimp"
+      ]
+    },
+    {
+      "company": "724 Events",
+      "title": "Front-End Developer",
+      "years": "Oct. 2023",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        "React",
+        "JavaScript",
+        "Sass",
+        "Node.js",
+        "Chrome Devtools"
+      ]
+    }
+  ]
+}

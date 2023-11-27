@@ -1,0 +1,73 @@
+{
+  "basic_info": {
+    "name": "Lola Siebens",
+    "titles": [
+      "Front-end Developer Junior",
+      "React Enthusiast",
+      "Api Integrator",
+      "Html and CSS Stylist"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/LolaSiebens",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/foxlosensei/",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "80"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Node.js",
+        "class": "devicon-nodejs-plain",
+        "level": "70"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-original",
+        "level": "70"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "75"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "75"
+      }
+    ]
+  }
+}

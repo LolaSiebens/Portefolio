@@ -1,0 +1,128 @@
+{
+  "basic_info": {
+    "description_header": "Bonjour",
+    "description": "👋 Je suis Lola. Développeur web junior passionnée de Front-end, maîtrisant JavaScript, React, HTML, CSS et les principes SEO. ⭐ Familière avec la connexion aux API, je m'engage à créer des expériences utilisateur dynamiques et performantes, en appliquant des méthodes de green code pour contribuer à un développement durable ! 💜",
+    "section_name": {
+      "about": "À propos de moi",
+      "projects": "Projets",
+      "skills": "Compétences",
+      "experience": "Expérience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Argent Bank",
+      "startDate": "Novembre 2023",
+      "description": "En tant que développeur front-end chez Argent Bank, j'ai créé l'application en React pour le nouveau système d'authentification, utilisant des technologies telles que MongoDB pour la gestion des données et Redux pour la gestion de l'état de l'application. J'ai également fourni des suggestions pour modéliser les routes API côté back-end dans le cadre des transactions, avec une revue de code prévue.",
+      "images": [
+        "images/portfolio/ArgentBank/p1.jpg",
+        "images/portfolio/ArgentBank/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-redux-original",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-sass-original",
+          "name": "Sass"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        }
+      ]
+    },
+    {
+      "title": "724 Events",
+      "startDate": "Octobre 2023",
+      "description": "En tant que développeur front-end freelance, j'ai été sollicité par l'agence 724events pour résoudre les bugs sur leur site vitrine. Mon rôle consistait à finaliser le projet en suivant les indications laissées par le développeur précédent et en complétant le cahier de recette pour assurer le bon fonctionnement du site.",
+      "images": [
+        "images/portfolio/724Events/p1.jpg",
+        "images/portfolio/724Events/p2.jpg"
+      ],
+      "url": "https://lolasiebens.github.io/724events/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-sass-original",
+          "name": "Sass"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        }
+      ]
+    },
+    {
+      "title": "Nina Carducci",
+      "startDate": "Septembre 2023",
+      "description": "Audit approfondi du site de la photographe Nina Carducci, révélant des opportunités d'optimisation SEO. Mise en œuvre d'optimisations exhaustives, englobant des ajustements de performances, du référencement local, des métadonnées pour les réseaux sociaux, ainsi que des améliorations en termes d'accessibilité.",
+      "images": [
+        "images/portfolio/NinaCarducci/p1.jpg",
+        "images/portfolio/NinaCarducci/p2.jpg"
+      ],
+      "url": "https://lolasiebens.github.io/Projet_9_NinaCarducci/",
+      "technologies": [
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Argent Bank",
+      "title": "Développeur Front-End",
+      "years": "Nov. 2023 - present",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        "React",
+        "JavaScript",
+        "Redux",
+        "Sass",
+        "Node.js",
+        "MongoDb",
+        "Gimp"
+      ]
+    },
+    {
+      "company": "724 Events",
+      "title": "Développeur Front-End",
+      "years": "Oct. 2023",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        "React",
+        "JavaScript",
+        "Sass",
+        "Node.js",
+        "Chrome Devtools"
+      ]
+    }
+  ]
+}
