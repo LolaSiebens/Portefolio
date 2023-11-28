@@ -11,14 +11,14 @@
   },
   "projects": [
     {
-      "title": "Argent Bank",
-      "startDate": "Novembre 2023",
+      "title": "Sophie Bluel",
+      "startDate": "Aout 2023",
       "description": "En tant que développeur front-end chez Argent Bank, j'ai créé l'application en React pour le nouveau système d'authentification, utilisant des technologies telles que MongoDB pour la gestion des données et Redux pour la gestion de l'état de l'application. J'ai également fourni des suggestions pour modéliser les routes API côté back-end dans le cadre des transactions, avec une revue de code prévue.",
       "images": [
-        "images/portfolio/ArgentBank/p1.jpg",
-        "images/portfolio/ArgentBank/p2.jpg"
+        "images/portfolio/SophieBluel/p1.jpg",
+        "images/portfolio/SophieBluel/p2.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://lolasiebens.github.io/Projet_6_Siebens_Lola/",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -93,23 +93,6 @@
   ],
   "experience": [
     {
-      "company": "Argent Bank",
-      "title": "Développeur Front-End",
-      "years": "Nov. 2023 - present",
-      "mainTech": [
-        "React"
-      ],
-      "technologies": [
-        "React",
-        "JavaScript",
-        "Redux",
-        "Sass",
-        "Node.js",
-        "MongoDb",
-        "Gimp"
-      ]
-    },
-    {
       "company": "724 Events",
       "title": "Développeur Front-End",
       "years": "Oct. 2023",
@@ -121,6 +104,21 @@
         "JavaScript",
         "Sass",
         "Node.js",
+        "Chrome Devtools"
+      ]
+    },
+    {
+      "company": "Nina Carducci",
+      "title": "Front-End Developer",
+      "years": "Sept. 2023",
+      "mainTech": [
+        "SEO"
+      ],
+      "technologies": [
+        "Bootstrap",
+        "JavaScript",
+        "Wave",
+        "Lighthouse",
         "Chrome Devtools"
       ]
     }

@@ -85,25 +85,8 @@
   ],
   "experience": [
     {
-      "company": "Argent Bank",
-      "title": "Front-End Developer",
-      "years": "Nov. 2023 - present",
-      "mainTech": [
-        "React"
-      ],
-      "technologies": [
-        "React",
-        "JavaScript",
-        "Redux",
-        "Sass",
-        "Node.js",
-        "MongoDb",
-        "Gimp"
-      ]
-    },
-    {
       "company": "724 Events",
-      "title": "Front-End Developer",
+      "title": "Développeur Front-End",
       "years": "Oct. 2023",
       "mainTech": [
         "React"
@@ -113,6 +96,21 @@
         "JavaScript",
         "Sass",
         "Node.js",
+        "Chrome Devtools"
+      ]
+    },
+    {
+      "company": "Nina Carducci",
+      "title": "Front-End Developer",
+      "years": "Sept. 2023",
+      "mainTech": [
+        "SEO"
+      ],
+      "technologies": [
+        "Bootstrap",
+        "JavaScript",
+        "Wave",
+        "Lighthouse",
         "Chrome Devtools"
       ]
     }
