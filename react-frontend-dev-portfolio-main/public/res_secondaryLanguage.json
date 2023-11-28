@@ -55,30 +55,27 @@
       ]
     },
     {
-      "title": "Sophie Bluel",
-      "startDate": "August 2023",
-      "description": "As a front-end developer for ArchiWebos agency, I was deployed to collaborate with a team on the design of Sophie Bluel's interior architect portfolio website. The task at hand was to create a dynamic web page using JavaScript.",
+      "title": "Oh my food",
+      "startDate": "July 2023",
+      "description": "As a Junior Developer, I joined OhmyFood with the mission of developing a mobile-first website that lists menus from gourmet restaurants, along with a reservation system. My tasks included creating a homepage and four restaurant pages.",
       "images": [
-        "images/portfolio/SophieBluel/p1.jpg",
-        "images/portfolio/SophieBluel/p2.jpg"
+        "images/portfolio/OhmyFood/p1.jpg",
+        "images/portfolio/OhmyFood/p2.jpg"
       ],
-      "url": "https://lolasiebens.github.io/Projet_6_Siebens_Lola/",
+      "url": "https://lolasiebens.github.io/Ohmyfood.github.io/",
       "technologies": [
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
+          "class": "devicon-sass-original",
+          "name": "Sass"
         },
         {
-          "class": "devicon-html5-plain",
-          "name": "HTML 5"
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
         },
         {
+          "name": "CSS 3",
           "class": "devicon-css3-plain",
-          "name": "CSS 3"
-        },
-        {
-          "class": "devicon-nodejs-plain",
-          "name": "Node.js"
+          "level": "95"
         }
       ]
     }
