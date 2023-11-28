@@ -57,7 +57,7 @@
     {
       "title": "Oh my food",
       "startDate": "July 2023",
-      "description": "In-depth analysis of photographer Nina Carducci's website, identifying SEO optimization opportunities. Comprehensive optimizations implemented, encompassing performance adjustments, local SEO, metadata for social networks, and accessibility enhancements.",
+      "description": "As a Junior Developer, I joined OhmyFood with the mission of developing a mobile-first website that lists menus from gourmet restaurants, along with a reservation system. My tasks included creating a homepage and four restaurant pages.",
       "images": [
         "images/portfolio/OhmyFood/p1.jpg",
         "images/portfolio/OhmyFood/p2.jpg"
@@ -65,12 +65,17 @@
       "url": "https://lolasiebens.github.io/Ohmyfood.github.io/",
       "technologies": [
         {
-          "class": "devicon-bootstrap-plain",
-          "name": "Bootstrap"
+          "class": "devicon-sass-original",
+          "name": "Sass"
         },
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
         }
       ]
     }
