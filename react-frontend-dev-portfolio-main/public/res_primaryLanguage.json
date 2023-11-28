@@ -11,38 +11,6 @@
   },
   "projects": [
     {
-      "title": "Sophie Bluel",
-      "startDate": "Aout 2023",
-      "description": "En tant que développeur front-end chez Argent Bank, j'ai créé l'application en React pour le nouveau système d'authentification, utilisant des technologies telles que MongoDB pour la gestion des données et Redux pour la gestion de l'état de l'application. J'ai également fourni des suggestions pour modéliser les routes API côté back-end dans le cadre des transactions, avec une revue de code prévue.",
-      "images": [
-        "images/portfolio/SophieBluel/p1.jpg",
-        "images/portfolio/SophieBluel/p2.jpg"
-      ],
-      "url": "https://lolasiebens.github.io/Projet_6_Siebens_Lola/",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-redux-original",
-          "name": "Redux"
-        },
-        {
-          "class": "devicon-sass-original",
-          "name": "Sass"
-        },
-        {
-          "class": "devicon-nodejs-plain",
-          "name": "Node.js"
-        }
-      ]
-    },
-    {
       "title": "724 Events",
       "startDate": "Octobre 2023",
       "description": "En tant que développeur front-end freelance, j'ai été sollicité par l'agence 724events pour résoudre les bugs sur leur site vitrine. Mon rôle consistait à finaliser le projet en suivant les indications laissées par le développeur précédent et en complétant le cahier de recette pour assurer le bon fonctionnement du site.",
@@ -87,6 +55,34 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Sophie Bluel",
+      "startDate": "Aout 2023",
+      "description": "En tant que développeur front-end pour l'agence ArchiWebos, j'ai été envoyé en renfort pour travailler en équipe sur la conception du site portefolio de Sophie Bluel, architecte d'intérieur. Ici il était question de créer une page web dynamique avec JavaScript",
+      "images": [
+        "images/portfolio/SophieBluel/p1.jpg",
+        "images/portfolio/SophieBluel/p2.jpg"
+      ],
+      "url": "https://lolasiebens.github.io/Projet_6_Siebens_Lola/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
         }
       ]
     }

@@ -11,34 +11,6 @@
   },
   "projects": [
     {
-      "title": "Argent Bank",
-      "startDate": "November 2023",
-      "description": "As a front-end developer at Argent Bank, I built the React application for the new authentication system, utilizing technologies like MongoDB for data management and Redux for state management. I also provided input on modeling back-end API routes for transactions, with a code review scheduled.",
-      "images": [
-        "images/portfolio/ArgentBank/p1.jpg",
-        "images/portfolio/ArgentBank/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-redux-original",
-          "name": "Redux"
-        },
-        {
-          "class": "devicon-sass-original",
-          "name": "Sass"
-        }
-      ]
-    },
-    {
       "title": "724 Events",
       "startDate": "October 2023",
       "description": "As a freelance front-end developer, I was enlisted by the agency 724events to address bugs on their showcase website. My role was to finalize the project by following the indications left by the previous developer and completing the recipe book to ensure the proper functioning of the site.",
@@ -79,6 +51,34 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Sophie Bluel",
+      "startDate": "August 2023",
+      "description": "As a front-end developer for ArchiWebos agency, I was deployed to collaborate with a team on the design of Sophie Bluel's interior architect portfolio website. The task at hand was to create a dynamic web page using JavaScript.",
+      "images": [
+        "images/portfolio/SophieBluel/p1.jpg",
+        "images/portfolio/SophieBluel/p2.jpg"
+      ],
+      "url": "https://lolasiebens.github.io/Projet_6_Siebens_Lola/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
         }
       ]
     }
